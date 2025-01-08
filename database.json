@@ -60,5 +60,116 @@
         "email": "r.taylor@example.com",
         "cohort": 5
       }
-    ]
+    ],
+    "posts": [
+    {
+      "id": 0,
+      "title": "Getting Started with React Hooks",
+      "body": "React Hooks have revolutionized how we write components. In this post, I'll share my journey learning about useState and useEffect. The concepts were challenging at first, but now they make perfect sense!",
+      "date": "2024-01-02",
+      "liked": true,
+      "topicId": 1,
+      "userId": 2
+    },
+    {
+      "id": 1,
+      "title": "My First Week as a Developer",
+      "body": "Starting a new career in development has been both exciting and challenging. The team has been incredibly supportive, and I'm learning something new every day.",
+      "date": "2024-01-05",
+      "liked": false,
+      "topicId": 3,
+      "userId": 0
+    },
+    {
+      "id": 2,
+      "title": "Understanding JavaScript Promises",
+      "body": "Async programming can be tricky. Today I finally understood how Promises work and how they make handling asynchronous operations so much cleaner.",
+      "date": "2024-01-07",
+      "liked": true,
+      "topicId": 2,
+      "userId": 4
+    },
+    {
+      "id": 3,
+      "title": "Building My First Full-Stack App",
+      "body": "After weeks of learning, I finally deployed my first full-stack application. Here's what I learned about connecting a React frontend with a Node.js backend.",
+      "date": "2024-01-08",
+      "liked": false,
+      "topicId": 1,
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "CSS Grid vs Flexbox",
+      "body": "Today I explored the differences between CSS Grid and Flexbox. Each has its strengths, and I'm starting to understand when to use one over the other.",
+      "date": "2024-01-08",
+      "liked": false,
+      "topicId": 4,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "The Importance of Code Reviews",
+      "body": "My first code review was eye-opening. I learned so much about code organization and best practices. Here are some key takeaways from the experience.",
+      "date": "2024-01-06",
+      "liked": true,
+      "topicId": 3,
+      "userId": 5
+    },
+    {
+      "id": 6,
+      "title": "State Management in React",
+      "body": "As my applications grow larger, I'm learning the importance of proper state management. Context API has been a game-changer for my projects.",
+      "date": "2024-01-03",
+      "liked": false,
+      "topicId": 1,
+      "userId": 7
+    },
+    {
+      "id": 7,
+      "title": "Debugging Tips and Tricks",
+      "body": "Console.log is just the beginning! I've discovered some powerful debugging techniques that have saved me hours of troubleshooting time.",
+      "date": "2024-01-04",
+      "liked": true,
+      "topicId": 2,
+      "userId": 6
+    },
+    {
+      "id": 8,
+      "title": "Learning About API Integration",
+      "body": "Today I successfully integrated my first third-party API. The documentation was challenging, but I learned a lot about fetch and error handling.",
+      "date": "2024-01-07",
+      "liked": false,
+      "topicId": 4,
+      "userId": 8
+    },
+    {
+      "id": 9,
+      "title": "My Journey with Unit Testing",
+      "body": "I used to skip testing, but now I understand its importance. Here's how I learned to write effective tests for my React components.",
+      "date": "2024-01-08",
+      "liked": true,
+      "topicId": 2,
+      "userId": 9
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "topic": "React"
+    },
+    {
+      "id": 2,
+      "topic": "JavaScript"
+    },
+    {
+      "id": 3,
+      "topic": "Career Development"
+    },
+    {
+      "id": 4,
+      "topic": "Frontend Development"
+    }
+  ],
+  "userLikedPosts": []
   }
