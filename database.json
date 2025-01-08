@@ -1,0 +1,64 @@
+{
+    "users": [
+      {
+        "id": 0,
+        "name": "Sarah Johnson",
+        "email": "sarah.j@example.com",
+        "cohort": 1
+      },
+      {
+        "id": 1,
+        "name": "Michael Chen",
+        "email": "m.chen@example.com",
+        "cohort": 1
+      },
+      {
+        "id": 2,
+        "name": "Emma Rodriguez",
+        "email": "emma.r@example.com",
+        "cohort": 2
+      },
+      {
+        "id": 3,
+        "name": "James Wilson",
+        "email": "j.wilson@example.com",
+        "cohort": 2
+      },
+      {
+        "id": 4,
+        "name": "Lisa Patel",
+        "email": "l.patel@example.com",
+        "cohort": 3
+      },
+      {
+        "id": 5,
+        "name": "David Kim",
+        "email": "d.kim@example.com",
+        "cohort": 3
+      },
+      {
+        "id": 6,
+        "name": "Maria Garcia",
+        "email": "m.garcia@example.com",
+        "cohort": 4
+      },
+      {
+        "id": 7,
+        "name": "Thomas Anderson",
+        "email": "t.anderson@example.com",
+        "cohort": 4
+      },
+      {
+        "id": 8,
+        "name": "Sophie Martin",
+        "email": "s.martin@example.com",
+        "cohort": 5
+      },
+      {
+        "id": 9,
+        "name": "Robert Taylor",
+        "email": "r.taylor@example.com",
+        "cohort": 5
+      }
+    ]
+  }
